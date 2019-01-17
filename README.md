@@ -1,2 +1,2 @@
 # ScrapyFoodMap
-利用Scrapy框架抓取各大美食平台外卖数据，并Echarts进行数据分析
+使用Scrapy框架抓取各大美食平台外卖数据，利用Django搭建后台框架并使用Echarts对抓取的美食数据进行数据分析
